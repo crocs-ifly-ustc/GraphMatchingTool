@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{-[1]-[7]-[1]-[7]COCl}+H_{2}\\xrightarrow{Pd-BaSO_{4}}\\chemfig{-[1]-[7]-[1]-[7]CHO}+HCl",
+    "ssml_sd": "\\chemfig { -[:45] -[:315] -[:45] -[:315] C O C l } + H _ { 2 } \\xrightarrow { P d - B a S O _ { 4 } } \\chemfig { -[:45] -[:315] -[:45] -[:315] C H O } + H C l",
+    "ssml_normed": "\\chemfig { -[:45.0,1.0] -[:315.0,1.0] -[:45.0,1.0] -[:315.0,1.0] C O C l } + H _ { 2 } \\xrightarrow { P d - B a S O _ { 4 } } \\chemfig { -[:45.0,1.0] -[:315.0,1.0] -[:45.0,1.0] -[:315.0,1.0] C H O } + H C l"
+}

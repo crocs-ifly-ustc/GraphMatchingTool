@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{CH_{2}=C(-[6]CH_{3})-CH=CH_{2}}",
+    "ssml_sd": "\\chemfig { C H _ { 2 } =[:0] C branch( -[:0] C H =[:0] C H _ { 2 } branch) -[:270] C H _ { 3 } }",
+    "ssml_normed": "\\chemfig { C H _ { 2 } =[:0.0,1.0] C branch( -[:0.0,1.0] C H =[:0.0,1.0] C H _ { 2 } branch) -[:270.0,1.0] C H _ { 3 } }"
+}

@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{H-C(-[2]H)(-[6]H)-C(-[2]H)(-[6]H)-H}",
+    "ssml_sd": "\\chemfig { H -[:0] C branch( -[:0] C branch( -[:0] H branch) branch( -[:90] H branch) -[:270] H branch) branch( -[:90] H branch) -[:270] H }",
+    "ssml_normed": "\\chemfig { H -[:0.0,1.0] C branch( -[:0.0,1.0] C branch( -[:0.0,1.0] H branch) branch( -[:90.0,1.0] H branch) -[:270.0,1.0] H branch) branch( -[:90.0,1.0] H branch) -[:270.0,1.0] H }"
+}

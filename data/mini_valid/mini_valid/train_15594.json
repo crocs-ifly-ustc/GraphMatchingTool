@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{*6(=(-[6]COOH)-=-(-[2]NO_{2})=-)}+CH_{3}CH_{2}OH \\underset{\\Delta }{\\overset{浓硫酸}{\\rightleftharpoons }} \\chemfig{*6(=(-[6]COOC_{2}H_{5})-=-(-[2]NO_{2})=-)}+H_{2}O",
+    "ssml_sd": "\\chemfig { ?[a] -[:90] =[:30] branch( -[:90] N O _ { 2 } branch) -[:330] =[:270] -[:210] ?[a,{=}] -[:270] C O O H } + C H _ { 3 } C H _ { 2 } O H \\xrightleftharpoons [ \\triangle ] { 浓 硫 酸 } \\chemfig { ?[a] -[:90] =[:30] branch( -[:90] N O _ { 2 } branch) -[:330] =[:270] -[:210] ?[a,{=}] -[:270] C O O C _ { 2 } H _ { 5 } } + H _ { 2 } O",
+    "ssml_normed": "\\chemfig { ?[a] -[:90.0,1.0] =[:30.0,1.0] branch( -[:90.0,1.0] N O _ { 2 } branch) -[:330.0,1.0] =[:270.0,1.0] -[:210.0,1.0] ?[a,{=}] -[:270.0,1.0] C O O H } + C H _ { 3 } C H _ { 2 } O H \\xrightleftharpoons [ \\triangle ] { 浓 硫 酸 } \\chemfig { ?[a] -[:90.0,1.0] =[:30.0,1.0] branch( -[:90.0,1.0] N O _ { 2 } branch) -[:330.0,1.0] =[:270.0,1.0] -[:210.0,1.0] ?[a,{=}] -[:270.0,1.0] C O O C _ { 2 } H _ { 5 } } + H _ { 2 } O"
+}

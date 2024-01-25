@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{[:30]*6(-=(-C(=[2]O)-CH_{3})-=-(-[4]HO)=)}",
+    "ssml_sd": "\\chemfig { H O -[:0] ?[a] branch( -[:60] =[:0] -[:300] branch( -[:0] C branch( -[:0] C H _ { 3 } branch) =[:90] O branch) =[:240] -[:180] ?[a,{=}] branch) }",
+    "ssml_normed": "\\chemfig { H O -[:0.0,1.0] ?[a] branch( -[:60.0,1.0] =[:0.0,1.0] -[:300.0,1.0] branch( -[:0.0,1.0] C branch( -[:0.0,1.0] C H _ { 3 } branch) =[:90.0,1.0] O branch) =[:240.0,1.0] -[:180.0,1.0] ?[a,{=}] branch) }"
+}

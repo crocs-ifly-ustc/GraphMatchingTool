@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{[:30]*6(=-(-[0]Br) =-=-)}+NaOH\\quad\\xrightarrow{H_{2}O}\\chemfig{[:30]*6(=-(-[0]OH) =-=-)}+NaBr",
+    "ssml_sd": "\\chemfig { ?[a] =[:60] -[:0] =[:300] branch( -[:0] B r branch) -[:240] =[:180] ?[a,{-}] } + N a O H \\space \\xrightarrow { H _ { 2 } O } \\chemfig { ?[a] =[:60] -[:0] =[:300] branch( -[:0] O H branch) -[:240] =[:180] ?[a,{-}] } + N a B r",
+    "ssml_normed": "\\chemfig { ?[a] =[:60.0,1.0] -[:0.0,1.0] =[:300.0,1.0] branch( -[:0.0,1.0] B r branch) -[:240.0,1.0] =[:180.0,1.0] ?[a,{-}] } + N a O H \\space \\xrightarrow { H _ { 2 } O } \\chemfig { ?[a] =[:60.0,1.0] -[:0.0,1.0] =[:300.0,1.0] branch( -[:0.0,1.0] O H branch) -[:240.0,1.0] =[:180.0,1.0] ?[a,{-}] } + N a B r"
+}

@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{[:90]*6(-(-COOH)=-(-[3]HO)=-(-[5,,,1]HO)=) }+CH_{3}OH \\xrightarrow[\\Delta]{浓H_{2}SO_{4}}\\chemfig{[:90]*6(-(-COOCH_{3})=-(-[3,,,1]HO)=-(-[5,,,1]HO)=) }+H_{2}O",
+    "ssml_sd": "\\chemfig { H O -[:45] ?[a] branch( =[:0] -[:60] branch( -[:0] C O O H branch) =[:120] -[:180] branch( -[:135] H O branch) =[:240] ?[a,{-}] branch) } + C H _ { 3 } O H \\xrightarrow [ \\triangle ] { 浓 H _ { 2 } S O _ { 4 } } \\chemfig { H O -[:45] ?[a] branch( =[:0] -[:60] branch( -[:0] C O O C H _ { 3 } branch) =[:120] -[:180] branch( -[:135] H O branch) =[:240] ?[a,{-}] branch) } + H _ { 2 } O",
+    "ssml_normed": "\\chemfig { H O -[:45.0,1.0] ?[a] branch( =[:0.0,1.0] -[:60.0,1.0] branch( -[:0.0,1.0] C O O H branch) =[:120.0,1.0] -[:180.0,1.0] branch( -[:135.0,1.0] H O branch) =[:240.0,1.0] ?[a,{-}] branch) } + C H _ { 3 } O H \\xrightarrow [ \\triangle ] { 浓 H _ { 2 } S O _ { 4 } } \\chemfig { H O -[:45.0,1.0] ?[a] branch( =[:0.0,1.0] -[:60.0,1.0] branch( -[:0.0,1.0] C O O C H _ { 3 } branch) =[:120.0,1.0] -[:180.0,1.0] branch( -[:135.0,1.0] H O branch) =[:240.0,1.0] ?[a,{-}] branch) } + H _ { 2 } O"
+}

@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{*6(=(-[6]OH)-(-[0]CH_{3})=-=-)}\\overset{C{(}H_{3}CO{)}_{2}}{\\rightarrow}\\chemfig{*6(=(-[6]OCCH_{3}(=[6,1,2]O))-(-[0]CH_{3}O)=-=-)}\\overset{CF_{3}COCl}{\\rightarrow}",
+    "ssml_sd": "\\chemfig { ?[a] -[:90] =[:30] -[:330] =[:270] branch( -[:0] C H _ { 3 } branch) -[:210] ?[a,{=}] -[:270] O H } \\xrightarrow { C ( H _ { 3 } C O ) _ { 2 } } \\chemfig { ?[a] -[:90] =[:30] -[:330] =[:270] branch( -[:0] C H _ { 3 } O branch) -[:210] ?[a,{=}] -[:270] O C C H _ { 3 } =[:270] O } \\xrightarrow { C F _ { 3 } C O C l }",
+    "ssml_normed": "\\chemfig { ?[a] -[:90.0,1.0] =[:30.0,1.0] -[:330.0,1.0] =[:270.0,1.0] branch( -[:0.0,1.0] C H _ { 3 } branch) -[:210.0,1.0] ?[a,{=}] -[:270.0,1.0] O H } \\xrightarrow { C ( H _ { 3 } C O ) _ { 2 } } \\chemfig { ?[a] -[:90.0,1.0] =[:30.0,1.0] -[:330.0,1.0] =[:270.0,1.0] branch( -[:0.0,1.0] C H _ { 3 } O branch) -[:210.0,1.0] ?[a,{=}] -[:270.0,1.0] O C C H _ { 3 } =[:270.0,1.0] O } \\xrightarrow { C F _ { 3 } C O C l }"
+}

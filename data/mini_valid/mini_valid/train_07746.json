@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{**6(------)}+HNO_{3}\\xrightarrow {\\Delta }\\chemfig{**6(----(-NO_{2})--)}+H_{2}O",
+    "ssml_sd": "\\chemfig { ?[a] branch( -:[:30] \\circle branch) -[:90] -[:30] -[:330] -[:270] -[:210] ?[a,{-}] } + H N O _ { 3 } \\xrightarrow { \\triangle } \\chemfig { ?[a] branch( -:[:30] \\circle branch) -[:90] -[:30] branch( -[:90] N O _ { 2 } branch) -[:330] -[:270] -[:210] ?[a,{-}] } + H _ { 2 } O",
+    "ssml_normed": "\\chemfig { ?[a] branch( -:[:30.0,1.0] \\circle branch) -[:90.0,1.0] -[:30.0,1.0] -[:330.0,1.0] -[:270.0,1.0] -[:210.0,1.0] ?[a,{-}] } + H N O _ { 3 } \\xrightarrow { \\triangle } \\chemfig { ?[a] branch( -:[:30.0,1.0] \\circle branch) -[:90.0,1.0] -[:30.0,1.0] branch( -[:90.0,1.0] N O _ { 2 } branch) -[:330.0,1.0] -[:270.0,1.0] -[:210.0,1.0] ?[a,{-}] } + H _ { 2 } O"
+}

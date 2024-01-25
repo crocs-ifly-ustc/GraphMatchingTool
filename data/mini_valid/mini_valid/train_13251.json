@@ -1,0 +1,5 @@
+{
+    "chemfig": "2\\chemfig{ **6(-(-[6]NH_{2} )---(-[2] OCH_{3})--)} +(CH_{3}CO)_{2}O\\xrightarrow[]{\\Delta } 2\\chemfig{ **6(-(-[6]NHCOCH_{3} )---(-[2] OCH_{3})--)} +H_{2}O",
+    "ssml_sd": "2 \\chemfig { ?[a] branch( -:[:30] \\circle branch) -[:90] -[:30] branch( -[:90] O C H _ { 3 } branch) -[:330] -[:270] -[:210] ?[a,{-}] -[:270] N H _ { 2 } } + ( C H _ { 3 } C O ) _ { 2 } O \\xrightarrow { \\triangle } 2 \\chemfig { ?[a] branch( -:[:30] \\circle branch) -[:90] -[:30] branch( -[:90] O C H _ { 3 } branch) -[:330] -[:270] -[:210] ?[a,{-}] -[:270] N H C O C H _ { 3 } } + H _ { 2 } O",
+    "ssml_normed": "2 \\chemfig { ?[a] branch( -:[:30.0,1.0] \\circle branch) -[:90.0,1.0] -[:30.0,1.0] branch( -[:90.0,1.0] O C H _ { 3 } branch) -[:330.0,1.0] -[:270.0,1.0] -[:210.0,1.0] ?[a,{-}] -[:270.0,1.0] N H _ { 2 } } + ( C H _ { 3 } C O ) _ { 2 } O \\xrightarrow { \\triangle } 2 \\chemfig { ?[a] branch( -:[:30.0,1.0] \\circle branch) -[:90.0,1.0] -[:30.0,1.0] branch( -[:90.0,1.0] O C H _ { 3 } branch) -[:330.0,1.0] -[:270.0,1.0] -[:210.0,1.0] ?[a,{-}] -[:270.0,1.0] N H C O C H _ { 3 } } + H _ { 2 } O"
+}

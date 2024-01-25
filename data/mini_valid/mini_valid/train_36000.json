@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{ HOOCCH_{2}-CH(-[6]CH_{3})-CH_{2}COOH }",
+    "ssml_sd": "\\chemfig { H O O C C H _ { 2 } -[:0] C H branch( -[:0] C H _ { 2 } C O O H branch) -[:270] C H _ { 3 } }",
+    "ssml_normed": "\\chemfig { H O O C C H _ { 2 } -[:0.0,1.0] C H branch( -[:0.0,1.0] C H _ { 2 } C O O H branch) -[:270.0,1.0] C H _ { 3 } }"
+}

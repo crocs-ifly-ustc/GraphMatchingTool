@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{CHOH-[2]CHOH} + O _ { 2 } \\xrightarrow[\\Delta]{Ag或Cu} \\chemfig{CHO-[2]CHO}+ 2 H _ { 2 } O",
+    "ssml_sd": "\\chemfig { C H O H -[:90] C H O H } + O _ { 2 } \\xrightarrow [ \\triangle ] { A g 或 C u } \\chemfig { C H O -[:90] C H O } + 2 H _ { 2 } O",
+    "ssml_normed": "\\chemfig { C H O H -[:90.0,1.0] C H O H } + O _ { 2 } \\xrightarrow [ \\triangle ] { A g 或 C u } \\chemfig { C H O -[:90.0,1.0] C H O } + 2 H _ { 2 } O"
+}

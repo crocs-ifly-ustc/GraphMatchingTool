@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{H_{2}N-[1]-[7](-[1]OH)(=[6]O)}+\\chemfig{(-[0]-[7]OH)(-[3]-[4])(-[5]-[4])}\\xrightarrow[\\triangle]{浓H_{2}SO_{4}}\\mathop{\\chemfig{(-[0]-[7]O-[0](=[1.3]O)(-[7]-[0]NH_{2}))(-[3]-[4])(-[5]-[4])}}\\limits^{+H_{2}O}",
+    "ssml_sd": "\\chemfig { H _ { 2 } N -[:45] -[:315] branch( -[:45] O H branch) =[:270] O } + \\chemfig { -[:0] -[:45] branch( -[:0] -[:315] O H branch) -[:135] -[:180] } \\xrightarrow [ \\triangle ] { 浓 H _ { 2 } S O _ { 4 } } \\chemfig { -[:0] -[:45] branch( -[:0] -[:315] O -[:0] branch( =[:60] O branch) -[:315] -[:0] N H _ { 2 } branch) -[:135] -[:180] } \\limits ^ { + H _ { 2 } O }",
+    "ssml_normed": "\\chemfig { H _ { 2 } N -[:45.0,1.0] -[:315.0,1.0] branch( -[:45.0,1.0] O H branch) =[:270.0,1.0] O } + \\chemfig { -[:0.0,1.0] -[:45.0,1.0] branch( -[:0.0,1.0] -[:315.0,1.0] O H branch) -[:135.0,1.0] -[:180.0,1.0] } \\xrightarrow [ \\triangle ] { 浓 H _ { 2 } S O _ { 4 } } \\chemfig { -[:0.0,1.0] -[:45.0,1.0] branch( -[:0.0,1.0] -[:315.0,1.0] O -[:0.0,1.0] branch( =[:58.5,1.0] O branch) -[:315.0,1.0] -[:0.0,1.0] N H _ { 2 } branch) -[:135.0,1.0] -[:180.0,1.0] } \\limits ^ { + H _ { 2 } O }"
+}

@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{CH_{2}CH-[6]CH_{2}CH}",
+    "ssml_sd": "\\chemfig { C H _ { 2 } C H -[:90] C H _ { 2 } C H }",
+    "ssml_normed": "\\chemfig { C H _ { 2 } C H -[:90.0,1.0] C H _ { 2 } C H }"
+}

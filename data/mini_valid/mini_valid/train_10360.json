@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{[:30]**5( -----)} +Br_{2}\\xrightarrow{FeBr_{3}}\\chemfig{**6( --( -[0]Br)----)} +HBr.",
+    "ssml_sd": "\\chemfig { ?[a] -[:45] -[:330] -[:270] -[:195] ?[a,{-}] -:[:60] \\circle } + B r _ { 2 } \\xrightarrow { F e B r _ { 3 } } \\chemfig { ?[a] branch( -:[:30] \\circle branch) -[:90] -[:30] -[:330] -[:270] branch( -[:0] B r branch) -[:210] ?[a,{-}] } + H B r .",
+    "ssml_normed": "\\chemfig { ?[a] -[:48.0,1.0] -[:336.0,1.0] -[:264.0,1.0] -[:192.0,1.0] ?[a,{-}] -:[:66.0,0.85] \\circle } + B r _ { 2 } \\xrightarrow { F e B r _ { 3 } } \\chemfig { ?[a] branch( -:[:30.0,1.0] \\circle branch) -[:90.0,1.0] -[:30.0,1.0] -[:330.0,1.0] -[:270.0,1.0] branch( -[:0.0,1.0] B r branch) -[:210.0,1.0] ?[a,{-}] } + H B r ."
+}

@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\xrightarrow[2)HCl]{1)\\chemfig{H_{2}N-[1](=[2]O)-[7]}}\\chemfig{=[2]([:60]*6(-NH-(=[0]O)-NH-(=[2]O)-(-[4](-[5]-[3])-[3])-))}",
+    "ssml_sd": "\\xrightarrow [ 2 ) H C l ] { 1 ) \\chemfig { H _ { 2 } N -[:45] branch( =[:90] O branch) -[:315] } } \\chemfig { -[:315] -[:45] branch( -[:0] ?[a] branch( -[:60] branch( -[:0] N H -[:300] branch( =[:0] O branch) -[:240] N H -[:180] ?[a,{-}] =[:270] branch) =[:90] O branch) branch) -[:135] }",
+    "ssml_normed": "\\xrightarrow [ 2 ) H C l ] { 1 ) \\chemfig { H _ { 2 } N -[:45.0,1.0] branch( =[:90.0,1.0] O branch) -[:315.0,1.0] } } \\chemfig { -[:315.0,1.0] -[:45.0,1.0] branch( -[:0.0,1.0] ?[a] branch( -[:60.0,1.0] branch( -[:0.0,1.0] N H -[:300.0,1.0] branch( =[:0.0,1.0] O branch) -[:240.0,1.0] N H -[:180.0,1.0] ?[a,{-}] =[:270.0,1.0] branch) =[:90.0,1.0] O branch) branch) -[:135.0,1.0] }"
+}

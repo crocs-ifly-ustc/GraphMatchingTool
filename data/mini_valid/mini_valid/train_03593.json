@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{ H O -[:294] >[:354] ?[a] -[:48] =[:336] ( -[:30] F ) -[:264] ( -[:192] O ?[a,{-}] ) <[:318] N **5( - - N - **6( - ( -[:300] C l ) - N - ( -[:60] N H _ { 2 } ) - N - ) - - ) }",
+    "ssml_sd": "\\chemfig { H O -[:300] >[:0] ?[a] branch( -[:315] O -[:15] branch( -[:90] branch( -[:30] F branch) =[:150] ?[a,{-}] branch) <[:315] N ?[b] branch( -[:15] ?[c] branch( -:[:0] \\circle branch) branch( -[:60] N -[:0] branch( -[:60] N H _ { 2 } branch) -[:300] N -[:240] branch( -[:180] ?[c,{-}] -[:225] N -[:150] ?[b,{-}] branch( -:[:30] \\circle branch) branch) -[:300] C l branch) branch) branch) }",
+    "ssml_normed": "\\chemfig { H O -[:294.0,1.0] >[:354.0,1.0] ?[a] branch( -[:300.0,1.0] O -[:12.0,1.0] branch( -[:84.0,1.0] branch( -[:30.0,1.0] F branch) =[:156.0,1.0] ?[a,{-}] branch) <[:318.0,1.0] N ?[b] branch( -[:12.0,1.0] ?[c] branch( -:[:0.0,1.0] \\circle branch) branch( -[:60.0,1.0] N -[:0.0,1.0] branch( -[:60.0,1.0] N H _ { 2 } branch) -[:300.0,1.0] N -[:240.0,1.0] branch( -[:180.0,1.0] ?[c,{-}] -[:228.0,1.0] N -[:156.0,1.0] ?[b,{-}] branch( -:[:30.0,0.85] \\circle branch) branch) -[:300.0,1.0] C l branch) branch) branch) }"
+}

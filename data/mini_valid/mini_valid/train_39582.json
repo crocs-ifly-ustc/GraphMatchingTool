@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{CH _{3}-[0]CH(-[6]CH _{3})-[0]CH(-[6]CH _{2}CH _{3}) -[0,2]CH(-[6]CH _{3})-[0]CH_{2}-[0]CH_{3}}",
+    "ssml_sd": "\\chemfig { C H _ { 3 } -[:0] C H branch( -[:0] C H branch( -[:0] C H branch( -[:0] C H _ { 2 } -[:0] C H _ { 3 } branch) -[:270] C H _ { 3 } branch) -[:270] C H _ { 2 } C H _ { 3 } branch) -[:270] C H _ { 3 } }",
+    "ssml_normed": "\\chemfig { C H _ { 3 } -[:0.0,1.0] C H branch( -[:0.0,1.0] C H branch( -[:0.0,2.0] C H branch( -[:0.0,1.0] C H _ { 2 } -[:0.0,1.0] C H _ { 3 } branch) -[:270.0,1.0] C H _ { 3 } branch) -[:270.0,1.0] C H _ { 2 } C H _ { 3 } branch) -[:270.0,1.0] C H _ { 3 } }"
+}

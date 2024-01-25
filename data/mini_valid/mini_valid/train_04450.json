@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{ O =[:0] ?[a] -[::306] \\chembelow { N } { H } -[::72] ( -[::72] ( =[::306] O ) -[::72] \\chemabove { N } { H } ?[a] ) =[::306] -[::60] (**5( - - S - - - )) }",
+    "ssml_sd": "\\chemfig { O =[:0] ?[a] branch( -[:60] \\Chemabove { N } { H } -[:345] branch( -[:270] branch( -[:195] \\Chemabove { H } { N } ?[a,{-}] branch) =[:330] -[:30] ?[b] branch( -:[:30] \\circle branch) branch( -[:75] -[:0] -[:300] S -[:225] ?[b,{-}] branch) branch) =[:30] O branch) }",
+    "ssml_normed": "\\chemfig { O =[:0.0,1.0] ?[a] branch( -[:54.0,1.0] \\Chemabove { N } { H } -[:342.0,1.0] branch( -[:270.0,1.0] branch( -[:198.0,1.0] \\Chemabove { H } { N } ?[a,{-}] branch) =[:324.0,1.0] -[:24.0,1.0] ?[b] branch( -:[:24.0,0.85] \\circle branch) branch( -[:78.0,1.0] -[:6.0,1.0] -[:294.0,1.0] S -[:222.0,1.0] ?[b,{-}] branch) branch) =[:36.0,1.0] O branch) }"
+}

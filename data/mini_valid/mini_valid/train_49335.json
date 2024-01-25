@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{**6(- - (-[0]OH)- (-[0]CH=[0]CHCOOH)- - (-[4]HO)-)(-[4]HO)}",
+    "ssml_sd": "\\chemfig { H O -[:0] ?[a] branch( -:[:30] \\circle branch) branch( -[:90] branch( -[:30] -[:330] branch( -[:0] C H =[:0] C H C O O H branch) -[:270] branch( -[:0] O H branch) -[:210] ?[a,{-}] branch) -[:180] H O branch) }",
+    "ssml_normed": "\\chemfig { H O -[:0.0,1.0] ?[a] branch( -:[:30.0,1.0] \\circle branch) branch( -[:90.0,1.0] branch( -[:30.0,1.0] -[:330.0,1.0] branch( -[:0.0,1.0] C H =[:0.0,1.0] C H C O O H branch) -[:270.0,1.0] branch( -[:0.0,1.0] O H branch) -[:210.0,1.0] ?[a,{-}] branch) -[:180.0,1.0] H O branch) }"
+}

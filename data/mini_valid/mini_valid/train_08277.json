@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{[:30]*6(=-(-[0]CH_{2}CHO)=-=-)} +2Ag（NH_{3}）_{2}OH\\xrightarrow {\\Delta }\\chemfig{[:30]*6(=-(-[0]CH_{2}COONH_{4} )=-=-)}+2Ag\\downarrow+3NH_{3}+H_{2}O",
+    "ssml_sd": "\\chemfig { ?[a] =[:60] -[:0] =[:300] branch( -[:0] C H _ { 2 } C H O branch) -[:240] =[:180] ?[a,{-}] } + 2 A g ( N H _ { 3 } ) _ { 2 } O H \\xrightarrow { \\triangle } \\chemfig { ?[a] =[:60] -[:0] =[:300] branch( -[:0] C H _ { 2 } C O O N H _ { 4 } branch) -[:240] =[:180] ?[a,{-}] } + 2 A g \\downarrow + 3 N H _ { 3 } + H _ { 2 } O",
+    "ssml_normed": "\\chemfig { ?[a] =[:60.0,1.0] -[:0.0,1.0] =[:300.0,1.0] branch( -[:0.0,1.0] C H _ { 2 } C H O branch) -[:240.0,1.0] =[:180.0,1.0] ?[a,{-}] } + 2 A g ( N H _ { 3 } ) _ { 2 } O H \\xrightarrow { \\triangle } \\chemfig { ?[a] =[:60.0,1.0] -[:0.0,1.0] =[:300.0,1.0] branch( -[:0.0,1.0] C H _ { 2 } C O O N H _ { 4 } branch) -[:240.0,1.0] =[:180.0,1.0] ?[a,{-}] } + 2 A g \\downarrow + 3 N H _ { 3 } + H _ { 2 } O"
+}

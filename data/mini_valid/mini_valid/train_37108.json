@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{[:55]*5(-(-[0] COOH)----)(-[7]CHO)}",
+    "ssml_sd": "\\chemfig { ?[a] -[:75] -[:0] -[:285] branch( -[:0] C O O H branch) -[:210] ?[a,{-}] -[:315] C H O }",
+    "ssml_normed": "\\chemfig { ?[a] -[:73.0,1.0] -[:1.0,1.0] -[:289.0,1.0] branch( -[:0.0,1.0] C O O H branch) -[:217.0,1.0] ?[a,{-}] -[:315.0,1.0] C H O }"
+}

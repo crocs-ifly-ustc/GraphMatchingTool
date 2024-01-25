@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{**6(---(-[0]SO_{3}H)---)} +3NaOH\\xrightarrow[\\Delta]{}Na_{2}SO_{3}+2H_{2}O+\\chemfig{**6(---(-[0]ONa)---)}",
+    "ssml_sd": "\\chemfig { ?[a] branch( -:[:30] \\circle branch) -[:90] -[:30] -[:330] branch( -[:0] S O _ { 3 } H branch) -[:270] -[:210] ?[a,{-}] } + 3 N a O H \\xrightarrow [ \\triangle ] { } N a _ { 2 } S O _ { 3 } + 2 H _ { 2 } O + \\chemfig { ?[a] branch( -:[:30] \\circle branch) -[:90] -[:30] -[:330] branch( -[:0] O N a branch) -[:270] -[:210] ?[a,{-}] }",
+    "ssml_normed": "\\chemfig { ?[a] branch( -:[:30.0,1.0] \\circle branch) -[:90.0,1.0] -[:30.0,1.0] -[:330.0,1.0] branch( -[:0.0,1.0] S O _ { 3 } H branch) -[:270.0,1.0] -[:210.0,1.0] ?[a,{-}] } + 3 N a O H \\xrightarrow [ \\triangle ] { } N a _ { 2 } S O _ { 3 } + 2 H _ { 2 } O + \\chemfig { ?[a] branch( -:[:30.0,1.0] \\circle branch) -[:90.0,1.0] -[:30.0,1.0] -[:330.0,1.0] branch( -[:0.0,1.0] O N a branch) -[:270.0,1.0] -[:210.0,1.0] ?[a,{-}] }"
+}

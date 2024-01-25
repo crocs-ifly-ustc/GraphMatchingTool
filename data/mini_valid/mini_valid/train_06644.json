@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{[:30]*6(-=(-CH=CHCHO)-=-=)}+2Cu(OH)_{2}+NaOH\\xrightarrow {\\Delta }\\chemfig{[:30]*6(-=(-CH=CHCOONa)-=-=)}+Cu_{2}O\\downarrow+3H_{2}O",
+    "ssml_sd": "\\chemfig { ?[a] -[:60] =[:0] -[:300] branch( -[:0] C H =[:0] C H C H O branch) =[:240] -[:180] ?[a,{=}] } + 2 C u ( O H ) _ { 2 } + N a O H \\xrightarrow { \\triangle } \\chemfig { ?[a] -[:60] =[:0] -[:300] branch( -[:0] C H =[:0] C H C O O N a branch) =[:240] -[:180] ?[a,{=}] } + C u _ { 2 } O \\downarrow + 3 H _ { 2 } O",
+    "ssml_normed": "\\chemfig { ?[a] -[:60.0,1.0] =[:0.0,1.0] -[:300.0,1.0] branch( -[:0.0,1.0] C H =[:0.0,1.0] C H C H O branch) =[:240.0,1.0] -[:180.0,1.0] ?[a,{=}] } + 2 C u ( O H ) _ { 2 } + N a O H \\xrightarrow { \\triangle } \\chemfig { ?[a] -[:60.0,1.0] =[:0.0,1.0] -[:300.0,1.0] branch( -[:0.0,1.0] C H =[:0.0,1.0] C H C O O N a branch) =[:240.0,1.0] -[:180.0,1.0] ?[a,{=}] } + C u _ { 2 } O \\downarrow + 3 H _ { 2 } O"
+}

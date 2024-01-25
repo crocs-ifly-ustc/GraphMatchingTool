@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\textbf{(5).}\\chemfig{**6(---(-[1]OH)-(-[2]CH_{3})--)}\\xrightarrow[CH_{3}I]{Cl_{2}/光照}\\chemfig{**6(---(-[1]OH)-(-[2]CH_{2}Cl)--)}",
+    "ssml_sd": "( 5 ) . \\chemfig { ?[a] branch( -:[:30] \\circle branch) -[:90] -[:30] branch( -[:90] C H _ { 3 } branch) -[:330] branch( -[:45] O H branch) -[:270] -[:210] ?[a,{-}] } \\xrightarrow [ C H _ { 3 } I ] { C l _ { 2 } / 光 照 } \\chemfig { ?[a] branch( -:[:30] \\circle branch) -[:90] -[:30] branch( -[:90] C H _ { 2 } C l branch) -[:330] branch( -[:45] O H branch) -[:270] -[:210] ?[a,{-}] }",
+    "ssml_normed": "( 5 ) . \\chemfig { ?[a] branch( -:[:30.0,1.0] \\circle branch) -[:90.0,1.0] -[:30.0,1.0] branch( -[:90.0,1.0] C H _ { 3 } branch) -[:330.0,1.0] branch( -[:45.0,1.0] O H branch) -[:270.0,1.0] -[:210.0,1.0] ?[a,{-}] } \\xrightarrow [ C H _ { 3 } I ] { C l _ { 2 } / 光 照 } \\chemfig { ?[a] branch( -:[:30.0,1.0] \\circle branch) -[:90.0,1.0] -[:30.0,1.0] branch( -[:90.0,1.0] C H _ { 2 } C l branch) -[:330.0,1.0] branch( -[:45.0,1.0] O H branch) -[:270.0,1.0] -[:210.0,1.0] ?[a,{-}] }"
+}

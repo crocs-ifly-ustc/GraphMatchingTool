@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{H_2C(-[1]COOC_2H_5)-[7]COOC_2H_5}",
+    "ssml_sd": "\\chemfig { H _ { 2 } C branch( -[:45] C O O C _ { 2 } H _ { 5 } branch) -[:315] C O O C _ { 2 } H _ { 5 } }",
+    "ssml_normed": "\\chemfig { H _ { 2 } C branch( -[:45.0,1.0] C O O C _ { 2 } H _ { 5 } branch) -[:315.0,1.0] C O O C _ { 2 } H _ { 5 } }"
+}

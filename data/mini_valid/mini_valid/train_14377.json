@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\chemfig{[:-18]*5(-O-(-[7]COOH)=-=)} \\xrightarrow{\\Delta }\\chemfig{[:-18]*5(-O----)}+CO_{2}\\uparrow +H_{2}\\uparrow",
+    "ssml_sd": "\\chemfig { ?[a] =[:75] -[:0] =[:285] branch( -[:210] O ?[a,{-}] branch) -[:315] C O O H } \\xrightarrow { \\triangle } \\chemfig { ?[a] -[:75] -[:0] -[:285] -[:210] O ?[a,{-}] } + C O _ { 2 } \\uparrow + H _ { 2 } \\uparrow",
+    "ssml_normed": "\\chemfig { ?[a] =[:72.0,1.0] -[:0.0,1.0] =[:288.0,1.0] branch( -[:216.0,1.0] O ?[a,{-}] branch) -[:315.0,1.0] C O O H } \\xrightarrow { \\triangle } \\chemfig { ?[a] -[:72.0,1.0] -[:0.0,1.0] -[:288.0,1.0] -[:216.0,1.0] O ?[a,{-}] } + C O _ { 2 } \\uparrow + H _ { 2 } \\uparrow"
+}

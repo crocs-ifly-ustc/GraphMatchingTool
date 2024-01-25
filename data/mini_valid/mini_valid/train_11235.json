@@ -1,0 +1,5 @@
+{
+    "chemfig": "\\textbf{16.(1)} \\chemfig{ CH_{3} -C(=[2]O)-OH }+ CH_{3}-CH_{2} -OH \\underset{\\Delta }{\\overset{浓硫酸}{\\rightleftharpoons}} \\chemfig{CH_{3} -C(=[2]O)-O-CH_{2}-CH_{3} }+ H _ { 2 } O",
+    "ssml_sd": "1 6 . ( 1 ) \\chemfig { C H _ { 3 } -[:0] C branch( -[:0] O H branch) =[:90] O } + C H _ { 3 } - C H _ { 2 } - O H \\xrightleftharpoons [ \\triangle ] { 浓 硫 酸 } \\chemfig { C H _ { 3 } -[:0] C branch( -[:0] O -[:0] C H _ { 2 } -[:0] C H _ { 3 } branch) =[:90] O } + H _ { 2 } O",
+    "ssml_normed": "1 6 . ( 1 ) \\chemfig { C H _ { 3 } -[:0.0,1.0] C branch( -[:0.0,1.0] O H branch) =[:90.0,1.0] O } + C H _ { 3 } - C H _ { 2 } - O H \\xrightleftharpoons [ \\triangle ] { 浓 硫 酸 } \\chemfig { C H _ { 3 } -[:0.0,1.0] C branch( -[:0.0,1.0] O -[:0.0,1.0] C H _ { 2 } -[:0.0,1.0] C H _ { 3 } branch) =[:90.0,1.0] O } + H _ { 2 } O"
+}
