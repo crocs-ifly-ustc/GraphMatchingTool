@@ -98,9 +98,11 @@ def SimulateCoord(rootAtom: Atom, scale=1):
                 assert lastBond.m_length is None
                 none_bonds.add(lastBond)
                 if lastBond.begin_atom.pos_x is not None and lastBond.end_atom.pos_x is not None:
-                    # pdb.set_trace()
                     lastBond.m_angle = math.atan2(-lastBond.end_atom.pos_y + lastBond.begin_atom.pos_y, lastBond.end_atom.pos_x - lastBond.begin_atom.pos_x) * 180.0 / math.pi
+                    if lastBond.m_angle < 0:
+                        lastBond.m_angle += 360
                     lastBond.m_length = math.sqrt(math.pow(-lastBond.end_atom.pos_y + lastBond.begin_atom.pos_y, 2) + math.pow(lastBond.end_atom.pos_x - lastBond.begin_atom.pos_x, 2))
+                    lastBond.m_length = float(lastBond.m_length) / scale
                 else:
                     atom_stack.append((curAtom, lastBond))
                     continue
@@ -137,7 +139,11 @@ def SimulateCoord(rootAtom: Atom, scale=1):
     for bond in none_bonds:
         if bond.begin_atom.pos_x is not None and bond.end_atom.pos_x is not None:
             bond.m_angle = math.atan2(-bond.end_atom.pos_y + bond.begin_atom.pos_y, bond.end_atom.pos_x - bond.begin_atom.pos_x) * 180.0 / math.pi
+            if bond.m_angle < 0:
+                bond.m_angle += 360
             bond.m_length = math.sqrt(math.pow(-bond.end_atom.pos_y + bond.begin_atom.pos_y, 2) + math.pow(bond.end_atom.pos_x - bond.begin_atom.pos_x, 2))
+            bond.m_length = float(bond.m_length) / scale
+            
 
     return all_atoms
 
